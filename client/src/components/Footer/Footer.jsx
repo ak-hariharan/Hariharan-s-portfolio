@@ -30,7 +30,7 @@ const Footer = () => {
     setResponseMessage(""); // Clear any previous response message
 
     try {
-      const response = await fetch("http://localhost:5000/api/contact", {
+      const response = await fetch("https://hariharan-s-portfolio.onrender.com/api/contact", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
