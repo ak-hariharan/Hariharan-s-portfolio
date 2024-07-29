@@ -39,7 +39,7 @@ This project consists of a contact form integrated into a portfolio website. The
 **License:**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-**License:**
+**Acknowledgements:**
 - React: React for building user interfaces.
 - Node.js: Node.js for the server-side runtime.
 - Nodemailer: Nodemailer for email handling.
