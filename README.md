@@ -49,3 +49,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - React Icons: React Icons for adding icons.
 - React Awesome Reveal: React Awesome Reveal for animations.
 - React Slick: React Slick for carousel functionality.
+
+**Note:**
+- **WHen you submit the conatct form wait for some untill you receive the pop of You message has been sent. It takes some time to deliver the message**
