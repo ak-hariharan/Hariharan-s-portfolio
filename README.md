@@ -1,4 +1,4 @@
-# Portfolio Contact Form Project
+# Portfolio 
 
 ## Overview
 
@@ -34,7 +34,7 @@ This project consists of a contact form integrated into a portfolio website. The
 - Back End - Deployed on [Render](https://render.com/)
 
 **Live Website:**
-- [View the live website](https://hari-ak-portfolio.netlify.app/). Feel free to mail me in the contact section of the page.
+- [View the live website](https://hari-ak-portfolio.netlify.app/). Feel free to mail me in the contact section of the webpage.
 
 **License:**
 This project is licensed under the MIT License. See the LICENSE file for details.
