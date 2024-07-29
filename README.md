@@ -51,4 +51,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - React Slick: React Slick for carousel functionality.
 
 **Note:**
-- **WHen you submit the conatct form wait for some untill you receive the pop of You message has been sent. It takes some time to deliver the message**
+- **When you submit the contact form, wait for some time to receive popup of your message. It takes some time to deliver the message**
