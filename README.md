@@ -57,7 +57,6 @@ Watch the Video Description
 https://github.com/user-attachments/assets/ea0af8de-7f96-482b-97d3-2f0208c7058b
 
 And I have attached the screenshots below.
-![Screenshot (22)](https://github.com/user-attachments/assets/3df1cd81-8dd1-4955-9ec0-94a0788e1c49)
 
 ![Screenshot (23)](https://github.com/user-attachments/assets/1ea4510b-ceb8-4fa1-9e3f-d363e8b8f078)
 
