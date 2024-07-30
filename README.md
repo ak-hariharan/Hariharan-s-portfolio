@@ -49,6 +49,25 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - React Icons: React Icons for adding icons.
 - React Awesome Reveal: React Awesome Reveal for animations.
 - React Slick: React Slick for carousel functionality.
+  
+**Video Description**
+For a visual walkthrough of the contact form integration in this portfolio project, check out the video below. It provides a detailed overview of how the form works, from submission to email delivery, and demonstrates the UI components and animations.
+
+Watch the Video Description
+https://github.com/user-attachments/assets/ea0af8de-7f96-482b-97d3-2f0208c7058b
+
+And I have attached the screenshots below.
+![Screenshot (22)](https://github.com/user-attachments/assets/3df1cd81-8dd1-4955-9ec0-94a0788e1c49)
+
+![Screenshot (23)](https://github.com/user-attachments/assets/1ea4510b-ceb8-4fa1-9e3f-d363e8b8f078)
+
+![Screenshot (24)](https://github.com/user-attachments/assets/f0e707e6-0b0c-4474-934b-875978bff288)
+
+![Screenshot (25)](https://github.com/user-attachments/assets/0e0cbaa8-dcbf-439c-8b33-ab2a8f5a9f69)
+
+![Screenshot (26)](https://github.com/user-attachments/assets/17a97a7f-8704-421f-a326-0d9440eff33c)
+
+![Screenshot (27)](https://github.com/user-attachments/assets/1ff8be8e-05f0-47ec-8bd6-991f2d2f3eee)
 
 **Note:**
 - **When you submit the contact form, wait for some time to receive popup of your message. It takes some time to deliver the message**
