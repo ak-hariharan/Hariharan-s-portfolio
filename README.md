@@ -69,5 +69,10 @@ And I have attached the screenshots below.
 
 ![Screenshot (27)](https://github.com/user-attachments/assets/1ff8be8e-05f0-47ec-8bd6-991f2d2f3eee)
 
+![Screenshot (28)](https://github.com/user-attachments/assets/bc5110c0-f8d0-47ac-9ee9-45bdd21c8ad8)
+
+![Screenshot (29)](https://github.com/user-attachments/assets/07586b6d-cc1a-487f-8f40-c144c2c6c2f4)
+
+
 **Note:**
 - **When you submit the contact form, wait for some time to receive popup of your message. It takes some time to deliver the message**
